@@ -1,0 +1,21 @@
+
+1;Napoli;	
+2;AC Milan;	
+3;Inter; 
+4;Juventus FC;	
+5;Atalanta BC;	
+6;AS Roma;	
+7;SS Lazio;	
+8;ACF Fiorentina;	
+9;US Sassuolo;	
+10;Torino FC;	
+11;Udinese Calcio;
+12;Bologna;	
+13;AC Monza;	
+14;FC Empoli;	
+15;Salernitana Calcio 1919;	
+16;US Lecce;	
+17;Spezia Calcio;	
+18;Hellas Verona;	
+19;Sampdoria;	
+20;Cremonese;	
