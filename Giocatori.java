@@ -1,13 +1,16 @@
-public class Giocatori{
-private  Giocatori  G[];
-public Giocatori(Giocatori G[]){
+public class Giocatori {
+private  Giocatore  G[];
+public Giocatori(Giocatore G[]){
 setG(G);
 }
 
-public void setGiocatori(Giocatori G[]){
-    this.Giocatori=Giocatori;
+public void setGiocatori(Giocatore G[]){
+    this.G=G;
 }
-public Giocatori[] getGiocatori(){
+public Giocatori[] getGiocatore(){
     
-    return Giocatori;
+    return G;
+}
+
+   
 }
